@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Currency converter",
+    "version": "1.0",
+    "description": "converts currencies",
+    "action":{
+        "default_popup": "index.html"
+    }
+
+}
